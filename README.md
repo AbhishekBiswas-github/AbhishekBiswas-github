@@ -11,9 +11,3 @@ GenAI Engineer with experience building practical AI-powered applications using 
 ![](https://github-readme-stats.shion.dev/api?username=AbhishekBiswas-github&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AbhishekBiswas-github&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbhishekBiswas-github&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbhishekBiswas-github&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=AbhishekBiswas-github&icon=0&color=0)](https://visitcount.itsvg.in)
